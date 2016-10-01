@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better Completion",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Git",
+		"Jade",
+		"MarkdownEditing",
+		"Material Theme - White Panels",
+		"Package Control",
+		"phJade",
+		"Pug",
+		"SideBarEnhancements",
+		"SublimeTmpl",
+		"Terminal",
+		"Theme - Soda"
+	]
+}
