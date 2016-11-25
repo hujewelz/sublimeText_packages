@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"Codecs33",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Facebook Material Theme",
+		"Material Theme - White Panels",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Package Control",
+		"Pug",
+		"React Templates",
+		"react-native-snippets",
+		"ReactJS",
+		"SFTP",
+		"SideBarFolders",
+		"SublimeCodeIntel",
+		"SublimeTmpl",
+		"Tag",
+		"Terminal",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"View In Browser"
+	],
+	"repositories":
+	[
+		"http://github.com/ttscoff/MarkdownEditing"
+	]
+}
